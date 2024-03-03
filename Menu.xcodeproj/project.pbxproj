@@ -12,6 +12,7 @@
 		3F4C3FDD2B9387D1006BDBDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F4C3FDC2B9387D1006BDBDB /* Assets.xcassets */; };
 		3F4C3FE02B9387D1006BDBDB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F4C3FDF2B9387D1006BDBDB /* Preview Assets.xcassets */; };
 		3F4C3FE72B939EE0006BDBDB /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4C3FE62B939EE0006BDBDB /* MenuItem.swift */; };
+		3F4C40212B94E240006BDBDB /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4C40202B94E240006BDBDB /* DataService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		3F4C3FDC2B9387D1006BDBDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F4C3FDF2B9387D1006BDBDB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F4C3FE62B939EE0006BDBDB /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
+		3F4C40202B94E240006BDBDB /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				3F4C3FD82B9387CE006BDBDB /* MenuApp.swift */,
 				3F4C3FDA2B9387CE006BDBDB /* MenuView.swift */,
+				3F4C40202B94E240006BDBDB /* DataService.swift */,
 				3F4C3FDC2B9387D1006BDBDB /* Assets.xcassets */,
 				3F4C3FDE2B9387D1006BDBDB /* Preview Content */,
 				3F4C3FE62B939EE0006BDBDB /* MenuItem.swift */,
@@ -143,6 +146,7 @@
 				3F4C3FE72B939EE0006BDBDB /* MenuItem.swift in Sources */,
 				3F4C3FDB2B9387CE006BDBDB /* MenuView.swift in Sources */,
 				3F4C3FD92B9387CE006BDBDB /* MenuApp.swift in Sources */,
+				3F4C40212B94E240006BDBDB /* DataService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
